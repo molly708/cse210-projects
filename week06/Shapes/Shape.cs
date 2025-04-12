@@ -2,6 +2,7 @@ using System;
 
 namespace Shapes
 {
+  // public class
   public abstract class Shape
   {
   protected string _color;

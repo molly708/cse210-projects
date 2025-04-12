@@ -1,5 +1,6 @@
 using System;
 
+// ChecklistGoal
 namespace EternalQuest
 {
   public class ChecklistGoal(string name, string description, int points, int targetCount, int bonusPoints) : Goal(name, description, points)

@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Hello World! This is the YouTubeVideos Project.");
-
+        // initialization
         Video video1 = new Video("Introduction to C#", "John Doe", 600);
         Video video2 = new Video("Object-Oriented Programming", "Jane Smith", 1200);
         Video video3 = new Video("C# LINQ Basics", "Michael Brown", 900);

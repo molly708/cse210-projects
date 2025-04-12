@@ -8,6 +8,7 @@ public abstract class Activity
     protected string description;
     protected int duration;
 
+    // Constructor
     public Activity(string name, string description)
     {
         this.name = name;

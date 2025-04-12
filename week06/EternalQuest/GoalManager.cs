@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
+// goal manager
 namespace EternalQuest
 {
   public class GoalManager

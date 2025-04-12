@@ -1,5 +1,6 @@
 using System;
 
+// shapes class
 namespace Shapes
 {
   public class Square : Shape

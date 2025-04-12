@@ -2,6 +2,7 @@ using System;
 using System.Drawing;
 using Shapes;
 
+// start of the program
 class Program
 {
     static void Main(string[] args)

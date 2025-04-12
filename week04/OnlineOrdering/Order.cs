@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-class Order
+class Order // order
 {
   private List<Product> _products;
 

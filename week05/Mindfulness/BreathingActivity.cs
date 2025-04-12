@@ -3,6 +3,7 @@
 using System;
 using System.Threading;
 
+// BreathingActivity class
 public class BreathingActivity : Activity
 {
     public BreathingActivity() : base("Breathing Activity",

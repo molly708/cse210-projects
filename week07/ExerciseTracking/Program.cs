@@ -1,6 +1,7 @@
 using System;
 using ExerciseTracking;
 
+// program
 namespace ExerciseTracking
 {
     class Program

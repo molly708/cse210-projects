@@ -2,6 +2,7 @@ using System;
 
 namespace Shapes
 {
+  // rectangle class
   public class Rectangle : Shape
   {
     private int _width;

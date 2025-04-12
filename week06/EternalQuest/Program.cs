@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 
+// program
 namespace EternalQuest
 {
     class Program

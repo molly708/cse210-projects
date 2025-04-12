@@ -1,5 +1,6 @@
 using System;
 
+// Goal
 namespace EternalQuest
 {
   public class Goal(string name, string description, int points)

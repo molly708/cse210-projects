@@ -1,5 +1,6 @@
 using System;
 
+// cycling class
 namespace ExerciseTracking
 {
   public class Cycling : Activity

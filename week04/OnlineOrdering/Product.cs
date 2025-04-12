@@ -5,7 +5,7 @@ class Product
 {
   private string _name;
 
-  private string _productId;
+  private string _productId; // string
 
   private double _pricePerUnit;
 

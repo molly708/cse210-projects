@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 class Customer
 {
-  private string _name;
+  private string _name; // string
   private Address _address;
 
   public Customer(string name, Address address)

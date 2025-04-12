@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading;
 
+// ListingActivity class
 public class ListingActivity : Activity
 {
     private List<string> prompts = new List<string>

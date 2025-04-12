@@ -4,7 +4,7 @@ class Program
     {
         Console.WriteLine("Hello World! This is the OnlineOrdering Project.");
 
-        // Step 1: Create Address objects
+        // Step 1: Create Address Objects
         Address address1 = new Address("123 Main St", "New York", "NY", "USA");
         Address address2 = new Address("456 Elm Ave", "Los Angeles", "CA", "USA");
 

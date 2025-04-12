@@ -2,7 +2,7 @@ using System;
 
 class Comment
 {
-  public string _name;
+  public string _name; // string name
   public string _text;
 
   public Comment(string name, string text)
